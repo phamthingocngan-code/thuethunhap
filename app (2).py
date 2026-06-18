@@ -1,6 +1,7 @@
 
 import streamlit as st
 
+st.image("bee.jpg")
 st.title("💰 App tính Thuế Thu Nhập Cá Nhân")
 
 thu_nhap = st.number_input(
